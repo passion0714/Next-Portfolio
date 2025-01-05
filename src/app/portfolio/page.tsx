@@ -35,7 +35,7 @@ const Portfolio: NextPage = () => {
                   <Image src="/imgs/portfolio/img-2.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>I've integrated advanced blockchain functionalities such
+                  <h4>I have integrated advanced blockchain functionalities such
                         as NFT collections, on-chain storage for in-game
                         progress, and secure transactions.</h4>
                   <div className="icon">
@@ -52,7 +52,7 @@ const Portfolio: NextPage = () => {
                   <Image src="/imgs/portfolio/img-9.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>We've made it easier for users to interact with the
+                  <h4>I have made it easier for users to interact with the
                         platform, whether they're looking to trade NFTs,
                         contribute to liquidity pools, or simply explore the
                         vast array of NFT collections available.</h4>
@@ -73,7 +73,7 @@ const Portfolio: NextPage = () => {
                   <Image src="/imgs/portfolio/img-3.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
-                  <h4>To bring these features to life, we've worked closely
+                  <h4>To bring these features to life, I have worked closely
                         with the IOTA EVM toolset, utilizing Solidity for smart
                         contract development</h4>
                   <div className="icon">
