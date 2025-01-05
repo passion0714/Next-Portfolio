@@ -18,7 +18,7 @@ const About: NextPage = () => {
                     I am Leung Jun Rui <span>Blockchain Engineer</span>
                   </h2>
                   <p>
-                    Hello, I&apos;m Leung Jun Rui, a seasoned Blockchain Engineer With 8 years of experience in blockchain development, I&apos;ve had the privilege of working on several projects involving smart contracts, decentralized finance (DeFi), and crypto trading bots. <br/>I&apos;m passionate about leveraging blockchain technology to create innovative solutions that empower investors and contribute to the growth of the crypto ecosystem
+                    Hello, I  m Leung Jun Rui, a seasoned Blockchain Engineer With 8 years of experience in blockchain development, I have had the privilege of working on several projects involving smart contracts, decentralized finance (DeFi), and crypto trading bots. <br/>I m passionate about leveraging blockchain technology to create innovative solutions that empower investors and contribute to the growth of the crypto ecosystem
                   </p>
                 </div>
               </div>
