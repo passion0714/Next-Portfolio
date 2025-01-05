@@ -22,7 +22,7 @@ const Portfolio: NextPage = () => {
                   <h4>I played a crucial role in developing smart contracts
                   and supporting both backend and frontend integrations</h4>
                   <div className="icon">
-                    <a target="_blank" href="https://pioneerlegends.com/"><i className="fa fa-search" /></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://pioneerlegends.com/"><i className="fa fa-search" /></a>
                   </div>
                 </div>
               </div>
@@ -39,7 +39,7 @@ const Portfolio: NextPage = () => {
                         as NFT collections, on-chain storage for in-game
                         progress, and secure transactions.</h4>
                   <div className="icon">
-                    <a target="_blank" href="https://reavers.xyz/"><i className="fa fa-search" /></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://reavers.xyz/"><i className="fa fa-search" /></a>
                   </div>
                 </div>
               </div>
@@ -53,11 +53,11 @@ const Portfolio: NextPage = () => {
                 </div>
                 <div className="portfolio-info">
                   <h4>I have made it easier for users to interact with the
-                        platform, whether they're looking to trade NFTs,
+                        platform, whether they&apos;re looking to trade NFTs,
                         contribute to liquidity pools, or simply explore the
                         vast array of NFT collections available.</h4>
                   <div className="icon">
-                    <a target="_blank" href="https://www.snippool.xyz/"><i className="fa fa-search" /></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.snippool.xyz/"><i className="fa fa-search" /></a>
                   </div>
                 </div>
               </div>
@@ -77,7 +77,7 @@ const Portfolio: NextPage = () => {
                         with the IOTA EVM toolset, utilizing Solidity for smart
                         contract development</h4>
                   <div className="icon">
-                    <a target="_blank" href="https://launchpad.iotaevm.snippool.xyz/"><i className="fa fa-search" /></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://launchpad.iotaevm.snippool.xyz/"><i className="fa fa-search" /></a>
                   </div>
                 </div>
               </div>
@@ -95,7 +95,7 @@ const Portfolio: NextPage = () => {
                         contracts using Solidity, ensuring they were secure and
                         efficient.</p>
                   <div className="icon">
-                    <a target="_blank" href="https://enter.metagame.wtf/"><i className="fa fa-search" /></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://enter.metagame.wtf/"><i className="fa fa-search" /></a>
                   </div>
                 </div>
               </div>
@@ -111,7 +111,7 @@ const Portfolio: NextPage = () => {
                   <h4>Led the development process of a poker platform & fixed
                   issues in the codebase.</h4>
                   <div className="icon">
-                    <a target="_blank" href="https://goalpost.gg/"><i className="fa fa-search" /></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://goalpost.gg/"><i className="fa fa-search" /></a>
                   </div>
                 </div>
               </div>
