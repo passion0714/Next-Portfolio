@@ -1,4 +1,5 @@
 import type { NextPage } from "next";
+import Image from "next/image";
 
 const Portfolio: NextPage = () => {
   return (
@@ -15,7 +16,7 @@ const Portfolio: NextPage = () => {
             <div className="portfolio-item padd-15" data-category="web-design">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <img src="/imgs/portfolio/img-1.jpg" alt="portfolio" />
+                  <Image src="/imgs/portfolio/img-1.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
                   <h4>I played a crucial role in developing smart contracts
@@ -31,7 +32,7 @@ const Portfolio: NextPage = () => {
             <div className="portfolio-item padd-15" data-category="web-design">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <img src="/imgs/portfolio/img-2.jpg" alt="portfolio" />
+                  <Image src="/imgs/portfolio/img-2.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
                   <h4>I've integrated advanced blockchain functionalities such
@@ -48,7 +49,7 @@ const Portfolio: NextPage = () => {
             <div className="portfolio-item padd-15" data-category="web-design">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <img src="/imgs/portfolio/img-9.jpg" alt="portfolio" />
+                  <Image src="/imgs/portfolio/img-9.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
                   <h4>We've made it easier for users to interact with the
@@ -69,7 +70,7 @@ const Portfolio: NextPage = () => {
             >
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <img src="/imgs/portfolio/img-3.jpg" alt="portfolio" />
+                  <Image src="/imgs/portfolio/img-3.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
                   <h4>To bring these features to life, we've worked closely
@@ -86,7 +87,7 @@ const Portfolio: NextPage = () => {
             <div className="portfolio-item padd-15" data-category="wordpress">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <img src="/imgs/portfolio/img-4.jpg" alt="portfolio" />
+                  <Image src="/imgs/portfolio/img-4.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
                   <p>From the ground up, I contributed to the technical
@@ -104,7 +105,7 @@ const Portfolio: NextPage = () => {
             <div className="portfolio-item padd-15" data-category="web-design">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <img src="/imgs/portfolio/img-6.jpg" alt="portfolio" />
+                  <Image src="/imgs/portfolio/img-6.jpg" alt="portfolio" />
                 </div>
                 <div className="portfolio-info">
                   <h4>Led the development process of a poker platform & fixed
