@@ -5,6 +5,7 @@ import "./globals.css";
 import "../styles/style.css";
 import "../styles/blue.css";
 import "../styles/theme.css";
+import "../styles/linear.css";
 import Sidebar from "@/components/sidebar/sidebar";
 import Providers from "./providers";
 import ThemeSwitch from "@/components/panel/ThemeSwitch";
