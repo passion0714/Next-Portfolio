@@ -18,10 +18,11 @@ const About: NextPage = () => {
                     I am Leung Jun Rui <span>Blockchain Engineer</span>
                   </h2>
                   <p>
-                  Hello, I'm Leung Jun Rui, a seasoned Blockchain Engineer With 8 years of experience in blockchain development, I've had the privilege of working on several projects involving smart contracts, decentralized finance (DeFi), and crypto trading bots. <br/>I'm passionate about leveraging blockchain technology to create innovative solutions that empower investors and contribute to the growth of the crypto ecosystem
+                    Hello, I&apos;m Leung Jun Rui, a seasoned Blockchain Engineer With 8 years of experience in blockchain development, I&apos;ve had the privilege of working on several projects involving smart contracts, decentralized finance (DeFi), and crypto trading bots. <br/>I&apos;m passionate about leveraging blockchain technology to create innovative solutions that empower investors and contribute to the growth of the crypto ecosystem
                   </p>
                 </div>
               </div>
+              {/* Rest of the component remains the same */}
               <div className="row">
                 <div className="personal-info padd-15">
                   <div className="row">
@@ -40,11 +41,6 @@ const About: NextPage = () => {
                         Degree : <span>Master Degree Computer Science</span>
                       </p>
                     </div>
-                    {/* <div className="info-item padd-15">
-                      <p>
-                        Phone : <span>+818084710263</span>
-                      </p>
-                    </div> */}
                     <div className="info-item padd-15">
                       <p>
                         City : <span>Petaling Jaya, Malaysia</span>
@@ -128,8 +124,6 @@ const About: NextPage = () => {
                   <div className="row">
                     <div className="timeline-box padd-15">
                       <div className="timeline shadow-dark">
-                        {/* Timeline Item */}
-                        
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
@@ -154,7 +148,6 @@ const About: NextPage = () => {
                             Master degree of Computer Science
                           </p>
                         </div>
-                        {/* Timeline Item end */}
                       </div>
                     </div>
                   </div>
@@ -164,7 +157,6 @@ const About: NextPage = () => {
                   <div className="row">
                     <div className="timeline-box padd-15">
                       <div className="timeline shadow-dark">
-                        {/* Timeline Item */}
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
@@ -178,8 +170,6 @@ const About: NextPage = () => {
                             - Utilized React and Angular frameworks to improve website functionality
                           </p>
                         </div>
-                        {/* Timeline Item end */}
-                        {/* Timeline Item */}
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
@@ -187,13 +177,11 @@ const About: NextPage = () => {
                           </h6>
                           <h4 className="timeline-title">Blockchain engineer</h4>
                           <p className="timeline-text">
-                          - Smart Contract Development: Spearheaded the design and implementation of smart contracts using Solidity for Ethereum-based projects, resulting in a 90% increase in transaction efficiency and security. <br />
-                          - Decentralized Application (DApp) Architecture: Designed and optimized DApp architectures, leading to a 80% improvement in system performance and scalability, supporting over 500 concurrent users seamlessly.<br />
-                          - Tokenization & DeFi Projects: Implemented proof-of-concept (PoC) projects for tokenization of real-world assets and decentralized finance (DeFi) smart contracts, unlocking liquidity worth $5M and driving investment opportunities.
+                            - Smart Contract Development: Spearheaded the design and implementation of smart contracts using Solidity for Ethereum-based projects, resulting in a 90% increase in transaction efficiency and security. <br />
+                            - Decentralized Application (DApp) Architecture: Designed and optimized DApp architectures, leading to a 80% improvement in system performance and scalability, supporting over 500 concurrent users seamlessly.<br />
+                            - Tokenization & DeFi Projects: Implemented proof-of-concept (PoC) projects for tokenization of real-world assets and decentralized finance (DeFi) smart contracts, unlocking liquidity worth $5M and driving investment opportunities.
                           </p>
                         </div>
-                        {/* Timeline Item end */}
-                        {/* Timeline Item */}
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
@@ -207,7 +195,6 @@ const About: NextPage = () => {
                             - Engineered scalable server-side solutions with Node.js, Express.js, and managed databases like MongoDB or PostgreSQL.
                           </p>
                         </div>
-                        {/* Timeline Item end */}
                       </div>
                     </div>
                   </div>
